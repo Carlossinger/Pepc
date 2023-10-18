@@ -1,3 +1,4 @@
+   
 :root{
     --gold1:blue;
     --gold2:green;
@@ -239,6 +240,7 @@ display: none;
     list-style: none;
 }
 .containerf{
+    
     max-width: auto;
     margin: 0 auto;
 }
@@ -264,7 +266,7 @@ padding:  15px;
     font-size: 20px;
     color: white;
     margin-bottom: 35px;
-   margin-left: 50px;
+   margin-left: 58px;
     border-bottom: 2px solid #e98214;
     display: inline-block;
    text-shadow: 0 0 5px #FFE53B;
@@ -280,9 +282,10 @@ padding:  15px;
     .footer-links1 h4 {
         font-size: 20px;
         color: white;
-        margin-bottom: 35px;
+        margin-top: 15px;
+        margin-bottom: 50px;
        margin-left: 50px;
-        border-bottom: 2px solid #e98214;
+        border-bottom: 2px solid #f6089b;
         display: inline-block;
        text-shadow: 0 0 5px #FFE53B;
     }
@@ -297,10 +300,10 @@ padding:  15px;
         
         .footer-links2 h4 {
             font-size: 20px;
-            color: white;
+            color: rgb(9, 9, 9);
             margin-bottom: 35px;
            margin-left: 50px;
-            border-bottom: 2px solid #e98214;
+            border-bottom: 2px solid #f6089b;
             display: inline-block;
            text-shadow: 0 0 5px #FFE53B;
         }
@@ -317,8 +320,8 @@ padding:  15px;
 
  }
  .boton-neon1:hover{
-    background: #96ed0b;
-    box-shadow: 0 0 10px #96ed0b, 0 0 40px #96ed0b, 0 0 80px #96ed0b;
+    background: #ed0b29;
+    box-shadow: 0 0 10px #ed0b29, 0 0 40px #ed0b29, 0 0 80px #ed0b29;
     transition-delay: 0.3s;
    
  }
@@ -424,5 +427,9 @@ padding:  15px;
         display: block;
     }
 }
+
+
+
+ 
  
  
